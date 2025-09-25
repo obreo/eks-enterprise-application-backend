@@ -1,0 +1,12 @@
+gspread
+requests
+python-dotenv
+reportlab
+werkzeug
+logging
+google-auth
+google-api-python-client
+flask
+boto3
+flask-cors
+gunicorn
